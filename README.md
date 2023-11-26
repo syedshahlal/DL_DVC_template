@@ -1,3 +1,1 @@
-# Deep Classifier Project
-
-.
+# Use this as DL_DVC_TEMPLATE
